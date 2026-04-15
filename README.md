@@ -2,7 +2,7 @@
 
 **VP Product Management · Cyber Resilience & Data Security · Chief Storyteller**
 
-> *I build products that protect the world's most critical data — and  lead the teams that deliver them.*
+> *I build products that protect the world's most critical data — and lead the teams that deliver them.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-timburlowski-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/timburlowski)
 [![Email](https://img.shields.io/badge/Email-Tim.Burlowski%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Tim.Burlowski@gmail.com)
@@ -15,16 +15,10 @@
 I lead product strategy at the intersection of **data protection**, **cyber resilience**, and **AI** — building secure-by-design, secure-by-default solutions for enterprise environments. With 20+ years in enterprise software, storage, and IT infrastructure, I specialize in:
 
 - Translating complex technical strategy into compelling narratives for executives, customers, and teams
-
 - Taking products from concept to market — fast
-
 - Driving double-digit revenue growth in mature and emerging markets
-
 - Building strategic partnerships and go-to-market playbooks
-
 - Championing GenAI-readiness in data resilience platforms
-
-  
 
 ---
 
@@ -42,9 +36,9 @@ I lead product strategy at the intersection of **data protection**, **cyber resi
 
 ```text
 Cyber Resilience Strategy     ████████████████░░░░   Leading
-AR Product Strategy
-PM Transformation
-GenAI x Data Protection       ███████████████░░░░░   Accelerating 
+AR Product Strategy           ██████████████░░░░░░   Driving
+PM Transformation             █████████████░░░░░░░   Driving
+GenAI x Data Protection       ███████████████░░░░░   Accelerating
 M&A Integration               ██████████░░░░░░░░░░   Executing
 ```
 
@@ -59,10 +53,10 @@ M&A Integration               ██████████░░░░░░�
 `Data Protection` `Cyber Resilience` `Data Security` `Ransomware Defense` `Enterprise Storage` `Deduplication` `Virtualization`
 
 **Technical**  
-`Gen AI` `Python` `SQL` `C/C++`  `Data Visualization`
+`Gen AI` `Python` `SQL` `C/C++` `Data Visualization`
 
 **Leadership**  
-`Cross-functional Collaboration` `Change Management` `Public Speaking` `Executive Storytelling` `Cross-cultural Communication
+`Cross-functional Collaboration` `Change Management` `Public Speaking` `Executive Storytelling` `Cross-cultural Communication`
 
 ---
 
