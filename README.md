@@ -77,8 +77,6 @@ When I'm not thinking about data security or product strategy, you'll find me hi
 
 ![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timburlowski&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timburlowski&layout=compact&theme=dark&hide_border=true)
-
 ---
 
 *"Great products start with a great story — and end with measurable outcomes."*
