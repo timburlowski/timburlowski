@@ -5,7 +5,6 @@
 > *I build products that protect the world's most critical data — and lead the teams that deliver them.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-timburlowski-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/timburlowski)
-[![Email](https://img.shields.io/badge/Email-Tim.Burlowski%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Tim.Burlowski@gmail.com)
 [![Patent](https://img.shields.io/badge/Patent-US7266781B1-green?style=flat&logo=google&logoColor=white)](https://patents.google.com/patent/US7266781B1/)
 
 ---
