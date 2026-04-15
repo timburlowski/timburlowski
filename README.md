@@ -71,11 +71,7 @@ M&A Integration               ██████████░░░░░░�
 
 When I'm not thinking about data security or product strategy, you'll find me hiking trails, cycling, or chasing great light with a camera.
 
----
 
-## GitHub Stats
-
-![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timburlowski&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
 
 ---
 
